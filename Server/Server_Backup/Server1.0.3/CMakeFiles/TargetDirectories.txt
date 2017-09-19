@@ -1,0 +1,3 @@
+/home/jpassehl/Desktop/SP/Server/CMakeFiles/edit_cache.dir
+/home/jpassehl/Desktop/SP/Server/CMakeFiles/rebuild_cache.dir
+/home/jpassehl/Desktop/SP/Server/CMakeFiles/server.dir
